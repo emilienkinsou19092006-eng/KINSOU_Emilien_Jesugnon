@@ -1,0 +1,3 @@
+User-agent:*
+Allow: /
+Sitemap:https://KINSOU_Emilien_Jesugnon//sitemap.xml
