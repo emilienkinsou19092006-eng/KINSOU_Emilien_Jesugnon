@@ -1,3 +1,4 @@
 User-agent:*
-Allow: /
+Disallow: /private/
+Allow: /public/
 Sitemap:https://KINSOU_Emilien_Jesugnon//sitemap.xml
